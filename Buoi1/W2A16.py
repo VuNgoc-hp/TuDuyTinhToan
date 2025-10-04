@@ -1,1 +1,0 @@
-print("Spring\nSummer\nAutumn\nWinter")
