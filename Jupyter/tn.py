@@ -1,3 +1,1 @@
-a='E'
-if 'e' in a:
-    print(a)
+print(15%42)
